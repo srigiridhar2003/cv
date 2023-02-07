@@ -1,0 +1,30 @@
+body {
+    background-color:powderblue;
+    } 
+hr {
+       border-style: none;
+       border-top-style: dotted;
+       border-color: grey;
+       border-width: 10px;
+       height: 2px;
+       width:10%;
+ 
+       
+    }
+table {
+       border-color: grey;
+       border-style: dotted;
+       border-spacing: 10px;
+ 
+    }
+h1{
+    color:#D61355;
+    text-decoration: underline;
+    text-shadow: 2px 2px 5px #FFFBEB;
+}
+h3{
+    color:#D61355;
+    
+
+
+}
